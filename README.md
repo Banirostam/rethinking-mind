@@ -1,47 +1,79 @@
 # Rethinking Mind
 
-Rethinking Mind is a long-term research program investigating the nature of mind, intelligence, and cognition across philosophy, cognitive science, and artificial intelligence.
+## What is this project?
 
-## Research Motivation
+Rethinking Mind is a long-term research program that investigates the nature of mind, cognition, and intelligence across philosophy, cognitive science, and artificial intelligence.
 
-Despite significant advances in artificial intelligence, fundamental questions about the nature of mind remain unresolved. Existing approaches often treat cognition either as symbolic computation or statistical learning, leaving deeper issues about meaning, experience, and understanding insufficiently addressed.
+Rather than treating these domains as separate, the project develops a unified conceptual framework that connects historical theories of mind to contemporary AI paradigms.
 
-This project aims to rethink the concept of mind by integrating insights from philosophy of mind, cognitive science, and modern AI.
+---
 
-## Research Questions
+## Why this project matters
 
-- What is a mind?
-- Can intelligence exist without experience?
-- What are the limits of computational models of cognition?
+Despite significant advances in artificial intelligence, fundamental questions about the nature of mind remain unresolved.
 
-## Structure
+Most current approaches implicitly assume one of two positions:
 
-The program is organized into multiple phases:
+- Cognition as abstract computation (symbolic AI)
+- Cognition as statistical pattern learning (modern machine learning)
 
-- Phase I: Classical Foundations (Plato – Aristotle)
-- Phase II: Early Modern Philosophy (Descartes – Kant)
-- Phase III: Phenomenology and Behaviorism
-- Phase IV: Cognitive Science and AI
-- Phase V: Contemporary Challenges (Consciousness, AI, Meaning)
+However, these approaches often overlook deeper conceptual assumptions inherited from classical philosophy.
+
+This project argues that many limitations of AI are not purely technical, but conceptual.
+
+---
+
+## Core Idea
+
+The central claim of this project is:
+
+> Modern theories of intelligence are structured by unresolved philosophical tensions about the nature of mind.
+
+In particular, the project identifies a foundational divide between:
+
+- **Abstract models of cognition** (e.g., Plato, symbolic AI)
+- **Embodied models of cognition** (e.g., Aristotle, embodied AI)
+
+This tension is not merely historical.  
+It continues to shape how intelligence is modeled in contemporary AI systems.
+
+---
+
+## Research Structure
+
+The project is organized into multiple phases, each examining a major transformation in theories of mind:
+
+- **Phase I — Classical Foundations** (Plato → Aristotle)
+- **Phase II — Early Modern Philosophy** (Descartes → Kant)
+- **Phase III — Cognitive Revolution & Computation**
+- **Phase IV — Embodied & Enactive Approaches**
+- **Phase V — AI, Consciousness, and Synthesis**
+
+Each phase includes:
+
+- Conceptual overview
+- Key research questions
+- Theoretical synthesis
+- A corresponding research paper
+
+---
 
 ## Outputs
 
-- LinkedIn educational series
-- Preprints and journal papers
-- Conceptual frameworks
-- Visual models and diagrams
-- Future book
+This repository supports multiple research outputs:
+
+- 📄 Preprints (Zenodo / arXiv / PhilArchive)
+- 📘 Journal papers (Q2 and above)
+- 📊 Figures and conceptual diagrams
+- 🧠 Educational materials (LinkedIn series)
+- 📚 Future book: *Imperfect Minds, Imperfect Machines*
+
+---
 
 ## Repository Structure
 
-- `/phases` → Research phases and synthesis
-- `/sessions` → Educational series content
-- `/theory` → Conceptual developments
-- `/papers` → Drafts and publications
-- `/figures` → Visual materials
-- `/references` → Curated sources
-
-## Author
-
-Touraj BaniRostam  
-Assistant Professor in Applied Artificial Intelligence
+```plaintext
+/phases       → Conceptual development of each phase
+/papers       → Research papers and drafts
+/figures      → Visual materials and diagrams
+/resources    → References and supporting materials
