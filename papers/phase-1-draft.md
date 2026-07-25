@@ -22,12 +22,11 @@ This phase identifies a persistent tension:
 - Cognition as embodied interaction
 
 ## 4. Contribution
+This paper advances the following claims:
+- The divide between symbolic and embodied AI is not merely technical, but conceptually inherited from classical philosophy
+- Current limitations in AI arise from unresolved assumptions about the nature of cognition
+- A unified understanding of mind requires addressing this foundational tension rather than choosing one paradigm over the other
 
-This paper makes the following contributions:
-
-- Identifies a continuous conceptual tension from classical philosophy to modern AI
-- Reinterprets symbolic and embodied AI as philosophical inheritances
-- Argues that current limitations in AI are rooted in unresolved theoretical assumptions
   
 ## 5. Implications for AI
 Modern AI reflects this divide:
