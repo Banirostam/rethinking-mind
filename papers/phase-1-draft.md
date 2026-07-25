@@ -37,5 +37,13 @@ Modern AI reflects this divide:
 ## 6. Discussion (Draft)
 This suggests that AI has inherited philosophical problems rather than resolving them.
 
-## 7. Conclusion (Draft)
+### 7. Limitations of Current AI Paradigms
+
+Symbolic AI assumes that cognition can be fully captured through formal representations. However, this approach struggles with context, adaptability, and real-world grounding.
+
+Embodied AI attempts to address these limitations by embedding cognition in interaction and environment. Yet, it lacks a clear account of abstraction, generalization, and symbolic reasoning.
+
+This suggests that neither paradigm fully resolves the foundational tension identified in classical philosophy.
+
+## 8. Conclusion (Draft)
 Understanding this tension is essential for rethinking the limits of computational models of mind.
