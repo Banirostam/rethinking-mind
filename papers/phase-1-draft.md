@@ -21,13 +21,21 @@ This phase identifies a persistent tension:
 - Cognition as abstract representation
 - Cognition as embodied interaction
 
-## 4. Implications for AI
+## 4. Contribution
+
+This paper makes the following contributions:
+
+- Identifies a continuous conceptual tension from classical philosophy to modern AI
+- Reinterprets symbolic and embodied AI as philosophical inheritances
+- Argues that current limitations in AI are rooted in unresolved theoretical assumptions
+  
+## 5. Implications for AI
 Modern AI reflects this divide:
 - Symbolic AI → abstract cognition
 - Embodied AI → interaction-based cognition
 
-## 5. Discussion (Draft)
+## 6. Discussion (Draft)
 This suggests that AI has inherited philosophical problems rather than resolving them.
 
-## 6. Conclusion (Draft)
+## 7. Conclusion (Draft)
 Understanding this tension is essential for rethinking the limits of computational models of mind.
