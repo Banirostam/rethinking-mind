@@ -1,7 +1,10 @@
 # Rethinking Mind — Phase I
 
 ## Abstract
-This paper examines the foundational tension between abstract and embodied models of cognition, tracing its origins to Plato and Aristotle and connecting it to modern artificial intelligence.
+
+This paper examines the foundational tension between abstract and embodied models of cognition, tracing its origins to Plato and Aristotle. It argues that this tension has not been resolved, but rather inherited by modern artificial intelligence.
+
+By linking classical philosophical frameworks to contemporary AI paradigms, the paper suggests that current limitations of computational models of mind arise from unresolved conceptual assumptions rather than purely technical constraints.
 
 ## 1. Introduction
 The nature of mind has been a central question in philosophy for centuries. Early frameworks already reveal a deep divide that remains unresolved in modern AI.
