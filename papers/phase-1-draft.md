@@ -1,48 +1,43 @@
-# Rethinking Mind — Phase I
+# Rethinking Mind
 
-## Abstract
+A long-term research program on mind, cognition, and artificial intelligence.
 
-This paper examines the foundational tension between abstract and embodied models of cognition, tracing its origins to Plato and Aristotle. It argues that this tension has not been resolved, but rather inherited by modern artificial intelligence.
+---
 
-By linking classical philosophical frameworks to contemporary AI paradigms, the paper suggests that current limitations of computational models of mind arise from unresolved conceptual assumptions rather than purely technical constraints.
+## Overview
 
-## 1. Introduction
-The nature of mind has been a central question in philosophy for centuries. Early frameworks already reveal a deep divide that remains unresolved in modern AI.
+Rethinking Mind is an interdisciplinary research project exploring the nature of mind, intelligence, and cognition across philosophy, cognitive science, and artificial intelligence.
 
-## 2. Classical Foundations
-### 2.1 Plato — Abstract Mind
-Plato’s theory emphasizes stable, abstract forms as the basis of knowledge.
+The project investigates how historical theories of mind shape contemporary AI systems and why fundamental conceptual tensions remain unresolved.
 
-### 2.2 Aristotle — Embodied Mind
-Aristotle grounds cognition in biological systems and experience.
+---
 
-## 3. The Core Tension
-This phase identifies a persistent tension:
-- Cognition as abstract representation
-- Cognition as embodied interaction
+## Research Motivation
 
-## 4. Contribution
-This paper advances the following claims:
-- The divide between symbolic and embodied AI is not merely technical, but conceptually inherited from classical philosophy
-- Current limitations in AI arise from unresolved assumptions about the nature of cognition
-- A unified understanding of mind requires addressing this foundational tension rather than choosing one paradigm over the other
+Despite major advances in artificial intelligence, core questions about the nature of mind remain open.
 
-  
-## 5. Implications for AI
-Modern AI reflects this divide:
-- Symbolic AI → abstract cognition
-- Embodied AI → interaction-based cognition
+Current AI paradigms often reduce cognition to either:
+- symbolic computation
+- statistical learning
 
-## 6. Discussion (Draft)
-This suggests that AI has inherited philosophical problems rather than resolving them.
+However, deeper issues related to:
+- meaning
+- experience
+- embodiment
 
-### 7. Limitations of Current AI Paradigms
+remain insufficiently addressed.
 
-Symbolic AI assumes that cognition can be fully captured through formal representations. However, this approach struggles with context, adaptability, and real-world grounding.
+This project aims to rethink the concept of mind by integrating insights from philosophy, cognitive science, and modern AI.
 
-Embodied AI attempts to address these limitations by embedding cognition in interaction and environment. Yet, it lacks a clear account of abstraction, generalization, and symbolic reasoning.
+---
 
-This suggests that neither paradigm fully resolves the foundational tension identified in classical philosophy.
+## Research Questions
 
-## 8. Conclusion (Draft)
-Understanding this tension is essential for rethinking the limits of computational models of mind.
+- What is a mind?
+- Can intelligence exist without experience?
+- What are the limits of computational models of cognition?
+- Is cognition fundamentally abstract or embodied?
+
+---
+
+## Project Structure
